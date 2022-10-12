@@ -6,11 +6,11 @@ Here we will build a multi-container WordPress installation. Which includes a My
 Prerequisites
 
 *Need server with Ubuntu 18.04 or above.
-*Need to install Docker, you can use this for installing Docker .
+*Need to install Docker, you can use this for installing [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04) .
 
-*Need to install Docker-compose, you can use this for installing Docker-compose .
+*Need to install Docker-compose, you can use this for installing [Docker-compose](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04) .
 
-*Purchase a domain name or point you domain name to server IP. You can use this to purchase new domain_name.
+*Purchase a domain name.
 
 Need to point:
 
